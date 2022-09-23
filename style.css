@@ -1,0 +1,194 @@
+body{
+    background-color:black !important;
+    font-family: 'Open Sans', Arial, sans-serif;
+    /* font-size: 14px; */
+    line-height: 23px;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*header*/
+
+.header{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    background-color:white;
+   
+  }
+
+.mail{
+    color:orange;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-decoration:none;
+}
+
+.nbphone{
+    content: "\f095";
+    line-height: 40px;
+}
+
+.gpwrd{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+/*End Header*/
+
+
+
+/*Nav*/
+
+.nav-link {
+    color: white;
+    font-size:20px;
+    text-align:center;
+}
+#prt {
+    padding: 27px;
+    float: right;}
+
+.nav-link:hover{
+    color:orange!important;
+}
+
+
+
+/*End-Nav*/
+
+
+
+/*slide*/
+.slide{
+    padding:0px;
+}
+
+/*end slide*/
+
+
+
+/*Content*/
+
+
+#content{
+    padding:125px;
+    text-align:center;
+}
+h1,h4{
+    
+    color:orange!important;
+    
+}
+
+.sousp{
+    font-size:21px;
+    font-weight:200;
+}
+.pphotos{
+    padding: 10px;
+    font-size: medium;
+    font-size: 14px;
+    font-weight: 500;
+    max-height: 90px;
+    overflow:hidden;
+    text-align: justify;
+   
+}
+   
+.img-fluid {
+    max-width: 100%!important;
+    height: 200px!important;
+    border-radius:2%;
+}
+
+.btn-primary{
+    background-color: #eb9042 !important;
+    background-color: #eb9042 !important;
+    padding: 12px 32px!important;
+    font-size: 18px!important;
+    line-height: 1.33!important;
+    border-radius: 6px!important;
+}
+
+.btn:hover{
+    background-color:black!important;
+    color:orange!important;
+}
+
+
+.col-4{
+    padding:10px;
+    
+    
+}
+
+/*End-content*/
+
+/*footer*/
+.legl{
+    padding:50px;
+}
+
+.copyright{
+    color:orange;
+
+}
+.légal{
+    text-decoration:none;
+    color:white;
+    text-transform:uppercase;
+}
+
+.mention{
+    padding:20px 0;
+}
+
+.return{
+    float:right;
+    text-decoration:none!important;
+    color:white!important;
+}
+
+.font-opensans{
+    color:white;
+}
+
+
+.legl{
+    padding:50px;
+}
+
+.contact{
+ padding:0px;
+}
+
+
+.column h4{
+   
+    font-size:20px;
+    padding: 0;
+    margin: 0;
+}
+
+.logo.col-4.column{ 
+    
+    border-radius:5px;
+
+}
+
+
+
+
+img, svg {
+    padding-left:40px;
+    margin:40px;
+}
+
+
